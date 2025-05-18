@@ -1,0 +1,9 @@
+Kindly install the following libraries
+
+py -3 -m pip install pandas
+py -3 -m pip install streamlit
+py -3 -m pip install streamlit_lottie
+py -3 -m pip install plotly
+py -3 -m pip install yfinance
+py -3 -m pip install folium
+py -3 -m pip install streamlit_folium
